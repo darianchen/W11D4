@@ -20,6 +20,7 @@ const PokemonBrowser = () => {
     return null;
   }
 
+  //
   return (
     <main>
       <nav>

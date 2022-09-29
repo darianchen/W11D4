@@ -9,7 +9,7 @@ const PokemonItems = ({ pokemon, setEditItemId }) => {
   if (!items) {
     return null;
   }
-
+//
   return items.map((item) => (
     <tr key={item.id}>
       <td>
